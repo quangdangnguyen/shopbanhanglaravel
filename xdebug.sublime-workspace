@@ -1,0 +1,844 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Au",
+				"Auth::guest\tDetermine if the current user is a guest."
+			],
+			[
+				"Redirec",
+				"Redirect::to\tRedirect to URL, Route or Controller"
+			],
+			[
+				"Redirc",
+				"Redirect::to\tRedirect to URL, Route or Controller"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"Produ",
+				"ProductType"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"str_rep",
+				"str_replace"
+			],
+			[
+				"bs3inputg",
+				"bs3-input-group-btn\tbs3-input-group-btn"
+			],
+			[
+				"bs3input",
+				"bs3-input:text\tbs3-input-text"
+			],
+			[
+				"Route",
+				"Route::group\tCreate a Group of Routes"
+			],
+			[
+				"Contr",
+				"Controller"
+			],
+			[
+				"bs3tem",
+				"bs3-template:starter\tbs3-template.starter"
+			],
+			[
+				"inli",
+				"inline-flex"
+			],
+			[
+				"puc",
+				"public"
+			],
+			[
+				"Rout",
+				"Route::resource\tRoute to a RESTful Controller"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"N",
+				"NOT"
+			],
+			[
+				"gly",
+				"glyphicon-search \tBootstrap 3 Class"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"bs3pan",
+				"bs3-panel:table\tbs3-panel-table"
+			],
+			[
+				"s-t",
+				"s-table\tsql-table"
+			],
+			[
+				"s-d",
+				"s-db\tsql-db"
+			],
+			[
+				"bs3nav",
+				"bs3-navbar:inverse\tbs3-navbar-inverse"
+			],
+			[
+				"class",
+				"class\tclass …"
+			],
+			[
+				"to",
+				"totalDe"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"is",
+				"isset"
+			],
+			[
+				"pa",
+				"pass"
+			],
+			[
+				"border-c",
+				"border-collapse\tproperty"
+			],
+			[
+				"col",
+				"colspan\tAttr"
+			],
+			[
+				"border",
+				"border-radius\tproperty"
+			],
+			[
+				"s",
+				"serif"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"bord",
+				"border-radius\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"tran",
+				"transparent"
+			],
+			[
+				"box-s",
+				"box-shadow\tproperty"
+			],
+			[
+				"im",
+				"images/"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"mys",
+				"mysql_result"
+			],
+			[
+				"trans",
+				"transition\tproperty"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"pos",
+				"position\tproperty"
+			],
+			[
+				"list-st",
+				"list-style\tproperty"
+			],
+			[
+				"bor",
+				"border-radius\tproperty"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"padd",
+				"padding-bottom\tproperty"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"overflow",
+				"overflow-x\tproperty"
+			],
+			[
+				"pad",
+				"padding-top\tproperty"
+			],
+			[
+				"bacl",
+				"background-color"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"w",
+				"web1.css"
+			],
+			[
+				"imag",
+				"images/"
+			],
+			[
+				"get",
+				"getAttr"
+			],
+			[
+				"val",
+				"value\tAttr"
+			],
+			[
+				"onclick",
+				"onclickfuntion"
+			],
+			[
+				"a",
+				"a\t<a>"
+			],
+			[
+				"bs3col",
+				"bs3-col:9\tbs3-col-9"
+			],
+			[
+				"bo",
+				"border\tproperty"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"box",
+				"box-sizing\tproperty"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"transla",
+				"translateY()"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"ti",
+				"title\tAttr"
+			],
+			[
+				"tit",
+				"title\tTag"
+			],
+			[
+				"animation-in",
+				"animation-iteration-count"
+			],
+			[
+				"id",
+				"id\tAttr"
+			],
+			[
+				"wh",
+				"white"
+			],
+			[
+				"background",
+				"background-color\tproperty"
+			],
+			[
+				"animation-d",
+				"animation-duration\tproperty"
+			],
+			[
+				"cla",
+				"class\tAttr"
+			],
+			[
+				"html",
+				"html5\tSimple HTML5 Boilerplate"
+			],
+			[
+				"widt",
+				"width\tAttr"
+			],
+			[
+				"margi",
+				"margin-top\tproperty"
+			],
+			[
+				"style",
+				"style\tAttr"
+			],
+			[
+				"hspa",
+				"hspace\tAttr"
+			],
+			[
+				"alig",
+				"align\tAttr"
+			],
+			[
+				"width",
+				"width\tAttr"
+			],
+			[
+				"backgro",
+				"background-color\tproperty"
+			],
+			[
+				"ali",
+				"align\tAttr"
+			],
+			[
+				"cell",
+				"cellspacing\tAttr"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"align",
+				"align\tAttr"
+			],
+			[
+				"sty",
+				"style\tAttr"
+			],
+			[
+				"bs3te",
+				"bs3-template:starter\tbs3-template.starter"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "resources/views/pages/checkout/payment.blade.php",
+			"settings":
+			{
+				"buffer_size": 3017,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: se",
+				"Package Control: Install Package"
+			],
+			[
+				"setup",
+				"Snippet: bs3-button-primary"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				" install p",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/bai-thi",
+		"/C/xampp/htdocs/shopbanhanglaravel",
+		"/C/xampp/htdocs/shopbanhanglaravel/app",
+		"/C/xampp/htdocs/shopbanhanglaravel/app/Console",
+		"/C/xampp/htdocs/shopbanhanglaravel/app/Http",
+		"/C/xampp/htdocs/shopbanhanglaravel/app/Http/Controllers",
+		"/C/xampp/htdocs/shopbanhanglaravel/database",
+		"/C/xampp/htdocs/shopbanhanglaravel/database/migrations",
+		"/C/xampp/htdocs/shopbanhanglaravel/resources",
+		"/C/xampp/htdocs/shopbanhanglaravel/resources/views",
+		"/C/xampp/htdocs/shopbanhanglaravel/resources/views/admin",
+		"/C/xampp/htdocs/shopbanhanglaravel/resources/views/pages",
+		"/C/xampp/htdocs/shopbanhanglaravel/resources/views/pages/brand",
+		"/C/xampp/htdocs/shopbanhanglaravel/resources/views/pages/cart",
+		"/C/xampp/htdocs/shopbanhanglaravel/resources/views/pages/category",
+		"/C/xampp/htdocs/shopbanhanglaravel/resources/views/pages/checkout",
+		"/C/xampp/htdocs/shopbanhanglaravel/resources/views/pages/product",
+		"/C/xampp/htdocs/shopbanhanglaravel/routes"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/shopbanhanglaravel/resources/views/pages/product/show_details.blade.php",
+		"/C/xampp/htdocs/shopbanhanglaravel/resources/views/pages/home.blade.php",
+		"/C/xampp/htdocs/shopbanhanglaravel/app/Http/Controllers/CheckoutController.php",
+		"/C/xampp/htdocs/shopbanhanglaravel/routes/web.php",
+		"/C/xampp/htdocs/shopbanhanglaravel/app/Http/Controllers/CategoryProduct.php",
+		"/C/xampp/htdocs/shopbanhanglaravel/resources/views/pages/checkout/payment.blade.php",
+		"/C/xampp/htdocs/shopbanhanglaravel/resources/views/pages/checkout/handcash.blade.php",
+		"/C/xampp/htdocs/shopbanhanglaravel/app/Http/Controllers/CartController.php",
+		"/C/xampp/htdocs/shopbanhanglaravel/resources/views/welcome.blade.php",
+		"/C/xampp/htdocs/shopbanhanglaravel/database/migrations/2020_02_07_072428_tbl_order_details.php",
+		"/C/xampp/htdocs/shopbanhanglaravel/database/migrations/2020_02_07_072354_tbl_order.php",
+		"/C/xampp/htdocs/shopbanhanglaravel/database/migrations/2020_02_07_072318_tbl_payment.php",
+		"/C/xampp/htdocs/shopbanhanglaravel/app/Http/Controllers/HomeController.php",
+		"/C/xampp/htdocs/shopbanhanglaravel/resources/views/pages/product/search.blade.php",
+		"/C/xampp/htdocs/shopbanhanglaravel/resources/views/pages/checkout/login_checkout.blade.php",
+		"/C/xampp/htdocs/shopbanhanglaravel/resources/views/pages/cart/show_cart.blade.php",
+		"/C/xampp/htdocs/shopbanhanglaravel/resources/views/pages/checkout/show_checkout.blade.php",
+		"/C/xampp/htdocs/shopbanhanglaravel/database/migrations/2020_02_07_034514_tbl_shipping.php",
+		"/C/xampp/htdocs/shopbanhanglaravel/resources/views/pages/checkout/checkout.blade.php",
+		"/C/xampp/htdocs/shopbanhanglaravel/database/migrations/2020_02_07_031435_tbl_customer.php",
+		"/C/xampp/htdocs/shopbanhanglaravel/app/Http/Controllers/ProductController.php",
+		"/C/xampp/htdocs/shopbanhanglaravel/config/app.php",
+		"/C/xampp/htdocs/shopbanhanglaravel/public/frontend/css/main.css",
+		"/C/xampp/htdocs/shopbanhanglaravel/resources/views/pages/category/show_category.blade.php",
+		"/C/xampp/htdocs/shopbanhanglaravel/resources/views/pages/brand/show_brand.blade.php",
+		"/C/xampp/htdocs/shopbanhanglaravel/app/Http/Controllers/BrandProduct.php",
+		"/C/xampp/htdocs/shopbanhanglaravel/app/Http/Controllers/AdminController.php",
+		"/C/xampp/htdocs/shopbanhanglaravel/resources/views/admin/add_product.blade.php",
+		"/C/xampp/htdocs/shopbanhanglaravel/resources/views/admin/edit_product.blade.php",
+		"/C/xampp/htdocs/shopbanhanglaravel/resources/views/admin/all_product.blade.php",
+		"/C/xampp/htdocs/shopbanhanglaravel/resources/views/admin/edit_category_product.blade.php",
+		"/C/xampp/htdocs/shopbanhanglaravel/resources/views/admin_layout.blade.php",
+		"/C/xampp/htdocs/shopbanhanglaravel/resources/views/admin/add_category_product.blade.php",
+		"/C/xampp/htdocs/shopbanhanglaravel/database/migrations/2019_12_10_073125_create_tbl_product.php",
+		"/C/xampp/htdocs/shopbanhanglaravel/resources/views/admin/all_brand_product.blade.php",
+		"/C/xampp/htdocs/shopbanhanglaravel/resources/views/admin/edit_brand_product.blade.php",
+		"/C/xampp/htdocs/shopbanhanglaravel/resources/views/admin/add_brand_product.blade.php",
+		"/C/xampp/htdocs/shopbanhanglaravel/resources/views/admin/all_category_product.blade.php",
+		"/C/xampp/htdocs/shopbanhanglaravel/database/migrations/2019_12_10_025328_create_tbl_brand_product.php",
+		"/C/xampp/htdocs/shopbanhanglaravel/database/migrations/2019_11_20_145333_create_tbl_category_product.php",
+		"/C/xampp/htdocs/shopbanhanglaravel/public/backend/css/style.css",
+		"/C/xampp/htdocs/project-doan/resources/views/admin/user/index.blade.php",
+		"/C/xampp/htdocs/project-doan/resources/views/admin/login.blade.php",
+		"/C/xampp/htdocs/project-doan/resources/views/page/chitiet_sanpham.blade.php",
+		"/C/xampp/htdocs/project-doan/resources/views/page/trangchu.blade.php",
+		"/C/xampp/htdocs/project-doan/resources/views/page/search.blade.php",
+		"/C/xampp/htdocs/project-doan/resources/views/page/loai_sanpham.blade.php",
+		"/C/xampp/htdocs/project-doan/app/Cart.php",
+		"/C/xampp/htdocs/project-doan/app/Http/Controllers/Admin/AdminController.php",
+		"/C/xampp/htdocs/project-doan/resources/views/header.blade.php",
+		"/C/xampp/htdocs/project-doan/routes/web.php",
+		"/C/xampp/htdocs/project-doan/app/Http/Controllers/Admin/UserController.php",
+		"/C/xampp/htdocs/project-doan/app/Providers/AppServiceProvider.php",
+		"/C/xampp/htdocs/project-doan/app/Http/Controllers/PageController.php",
+		"/C/xampp/htdocs/project-doan/resources/views/admin/index.blade.php",
+		"/C/xampp/htdocs/project-doan/app/Http/Middleware/AdminLoginMiddleware.php",
+		"/C/xampp/htdocs/project-doan/app/Models/Cart.php",
+		"/C/xampp/htdocs/project-doan/routes/admin.php",
+		"/C/xampp/htdocs/project-doan/resources/views/mails/blanks.blade.php",
+		"/C/xampp/htdocs/project-doan/resources/views/page/dat_hang.blade.php",
+		"/C/xampp/htdocs/project-doan/resources/views/page/sendmail.blade.php",
+		"/C/xampp/htdocs/project-doan/resources/views/page/lienhe.blade.php",
+		"/C/xampp/htdocs/project-doan/public/source/assets/dest/css/style1.css",
+		"/C/xampp/htdocs/project-doan/public/source/assets/dest/css/style.css",
+		"/C/xampp/htdocs/project-doan/resources/views/admin/bill/index.blade.php",
+		"/C/xampp/htdocs/project-doan/config/mail.php",
+		"/C/xampp/htdocs/project-doan/resources/views/page/thongtinnguoidung.blade.php",
+		"/C/xampp/htdocs/project-doan/resources/views/welcome.blade.php",
+		"/C/xampp/htdocs/project-doan/resources/views/master.blade.php",
+		"/C/xampp/htdocs/project-doan/app/Http/Controllers/Admin/BillController.php",
+		"/C/xampp/htdocs/project-doan/resources/views/admin/bill/edit.blade.php",
+		"/C/xampp/htdocs/project-doan/resources/views/admin/product/index.blade.php",
+		"/C/xampp/htdocs/project-doan/app/Http/Controllers/Admin/ProductController.php",
+		"/C/xampp/htdocs/project-doan/.env",
+		"/C/xampp/htdocs/project-doan/app/Http/Controllers/Admin/NewProductController.php",
+		"/C/xampp/htdocs/project-doan/app/Http/Controllers/Admin/NewsController.php",
+		"/C/xampp/htdocs/project-doan/resources/views/admin/product/add.blade.php",
+		"/C/xampp/htdocs/project-doan/app/Http/Controllers/MailSend.php",
+		"/C/xampp/htdocs/project-doan/resources/views/emails/thanks.blade.php",
+		"/C/xampp/htdocs/project-doan/resources/views/emails/sendmail.blade.php",
+		"/C/xampp/htdocs/project-doan/app/Mail/SendMail.php",
+		"/C/xampp/htdocs/project-doan/resources/views/admin/master.blade.php",
+		"/C/xampp/htdocs/project-doan/resources/views/admin/news/index.blade.php",
+		"/C/xampp/htdocs/project-doan/resources/views/admin/news/add.blade.php",
+		"/C/xampp/htdocs/project-doan/app/Http/Controllers/Admin/BannerController.php",
+		"/C/xampp/htdocs/project-doan/resources/views/admin/product/edit.blade.php",
+		"/C/xampp/htdocs/project-doan/resources/views/admin/news/edit.blade.php",
+		"/C/xampp/htdocs/project-doan/resources/views/admin/banner/add.blade.php",
+		"/C/xampp/htdocs/project-doan/resources/views/admin/banner/index.blade.php",
+		"/C/xampp/htdocs/project-doan/app/Product.php",
+		"/C/xampp/htdocs/project-doan/app/Models/Slide.php",
+		"/C/xampp/htdocs/project-doan/resources/views/admin/banner/edit.blade.php",
+		"/C/xampp/htdocs/project-doan/app/Slide.php",
+		"/C/xampp/htdocs/project-doan/app/Models/Product.php",
+		"/C/xampp/htdocs/project-doan/public/admin/css/style.css",
+		"/C/xampp/htdocs/project-doan/public/admin/css/font-awesome.min.css",
+		"/C/xampp/htdocs/project-doan/public/admin/css/bootstrap.min.css",
+		"/C/xampp/htdocs/project-doan/app/Http/Controllers/Controller.php",
+		"/C/xampp/htdocs/project-lar/lib/app/Http/Controllers/Admin/HomeController.php",
+		"/C/xampp/htdocs/project-lar/lib/resources/views/backend/category.blade.php",
+		"/C/xampp/htdocs/project-lar/lib/resources/views/errors/note.blade.php",
+		"/C/xampp/htdocs/project-lar/lib/app/Http/Requests/AddCateRequest.php",
+		"/C/xampp/htdocs/project-lar/lib/app/Http/Controllers/Admin/CategoryController.php",
+		"/C/xampp/htdocs/project-lar/lib/routes/web.php",
+		"/C/xampp/htdocs/project-lar/lib/app/Models/Category.php",
+		"/C/xampp/htdocs/project-lar/lib/resources/views/backend/master.blade.php",
+		"/C/xampp/htdocs/project-lar/lib/resources/views/backend/index.blade.php",
+		"/C/xampp/htdocs/project-lar/lib/database/seeds/CategoriesTableSeeder.php",
+		"/C/xampp/htdocs/project-lar/lib/resources/views/backend/editcategory.blade.php",
+		"/C/xampp/htdocs/project-lar/lib/database/migrations/2019_11_25_064643_vp_categories.php",
+		"/C/xampp/htdocs/project-lar/lib/app/User.php",
+		"/C/xampp/htdocs/project-lar/lib/resources/views/backend/product.blade.php",
+		"/C/xampp/htdocs/project-lar/lib/resources/views/backend/login.blade.php",
+		"/C/xampp/htdocs/project-lar/lib/app/Http/Controllers/Admin/LoginController.php",
+		"/C/xampp/htdocs/project-lar/lib/app/Http/Kernel.php",
+		"/C/xampp/htdocs/project-lar/lib/app/Http/Middleware/CheckLogedOut.php",
+		"/C/xampp/htdocs/project-lar/lib/app/Http/Middleware/CheckLogedIn.php",
+		"/C/xampp/htdocs/project-lar/lib/resources/views/backend/editproduct.blade.php",
+		"/C/xampp/htdocs/project-lar/lib/resources/views/backend/addproduct.blade.php",
+		"/C/xampp/htdocs/project-lar/lib/database/seeds/UserTableSeeder.php",
+		"/C/xampp/htdocs/project-lar/lib/database/migrations/2019_11_25_032409_vp_user.php",
+		"/C/xampp/htdocs/project-lar/lib/database/migrations/2019_08_19_000000_create_failed_jobs_table.php",
+		"/C/xampp/htdocs/project-lar/lib/.env",
+		"/C/xampp/htdocs/project-lar/index.php",
+		"/C/xampp/htdocs/shopbanhanglaravel/resources/views/admin_login.blade.php",
+		"/C/xampp/htdocs/shopbanhanglaravel/resources/views/admin/dashboard.blade.php",
+		"/C/xampp/htdocs/webadmin/form_component.html",
+		"/C/xampp/htdocs/shopbanhanglaravel/database/migrations/2019_11_20_065702_create_tbl_admin_table.php"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"    \n",
+			"checkbox",
+			"một",
+			"main-menu",
+			">\n",
+			".nav",
+			"nav",
+			"bgtile.jpg",
+			"bgtile",
+			".fa",
+			".header",
+			".header-search",
+			".input",
+			"input",
+			"header",
+			"'#',\n",
+			"link",
+			";\n",
+			"js",
+			"<label for=\"inputa\"><input type=\"radio\" name=\"gioi-tinh\" id=\"inputa\" value=\"1\">Nam</label>",
+			"<button type=\"Submit\">Đăng nhập</button>",
+			"\t\t\t\t\t\t\t",
+			"\t\t\t\n",
+			"<li>Xu xu xào tỏi</li>"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "resources/views/pages/checkout/payment.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3017,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2603,
+								2603
+							]
+						],
+						"settings":
+						{
+							"color_helper.box_height": 18,
+							"color_helper.color_scheme": "Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.preview_meta":
+							{
+							},
+							"color_helper.scan":
+							{
+								"allowed_colors":
+								[
+									"hwba",
+									"rgba",
+									"graya",
+									"rgb",
+									"gray",
+									"hexa_compressed",
+									"hsl",
+									"hwb",
+									"hex_compressed",
+									"hexa",
+									"hsla",
+									"webcolors",
+									"hex"
+								],
+								"compress_hex_output": true,
+								"current_ext": ".php",
+								"current_syntax": "laravel-blade-master/blade",
+								"enabled": true,
+								"last_updated": 1581303598.54,
+								"scan_completion_scopes":
+								[
+								],
+								"scan_scopes":
+								[
+									"meta.declaration-list.css -support.type.property-name.css -comment -string",
+									"meta.property-value.css -comment -string",
+									"meta.value.css -comment -string",
+									"meta.tag.inline.any.html string.quoted -constant.character.entity.html",
+									"meta.tag.any.html meta.attribute-with-value.style.html"
+								],
+								"use_hex_argb": false
+							},
+							"syntax": "Packages/laravel-blade-master/blade.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 972.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "xdebug.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Demo.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 409.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
